@@ -2,7 +2,7 @@
 
 An interactive, modular quiz application built with Python. Designed for simplicity, fast modification, and easy deployment, Quiz-Bot allows users to take quizzes, view scores, and expand the question set without changing core logic.
 
-
+ 
 ---
 
 🚀 Features
